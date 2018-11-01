@@ -7,6 +7,7 @@ public class Rectangle {
 
   int length;
   int width;
+  // add wee comment
 
   public Rectangle (int length, int width) {
     this.length = length;
