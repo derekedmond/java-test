@@ -14,6 +14,9 @@ public class Rectangle {
     this.width  = width;
   }
 
+  /**
+   * Comments about this method
+   */
   public getArea() {
     return length * width;
   }
