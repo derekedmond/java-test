@@ -9,6 +9,9 @@ public class Rectangle {
   int width;
   // add wee comment
 
+  /**
+   * Contrsuctor comment
+   */
   public Rectangle (int length, int width) {
     this.length = length;
     this.width  = width;
