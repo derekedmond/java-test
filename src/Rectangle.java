@@ -1,3 +1,7 @@
+/**
+ *@author Derek Edmond
+ **/
+
 public class Rectangle {
 
   int length;
